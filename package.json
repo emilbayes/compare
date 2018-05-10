@@ -1,0 +1,29 @@
+{
+  "name": "correct-compare",
+  "version": "0.0.0",
+  "description": "Compare primitives the right way (using `<`, `>` and `==`)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilbayes/correct-compare.git"
+  },
+  "keywords": [
+    "compare",
+    "cmpstr",
+    "string",
+    "number",
+    "numeric",
+    "sort",
+    "stable",
+    "ascii"
+  ],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilbayes/correct-compare/issues"
+  },
+  "homepage": "https://github.com/emilbayes/correct-compare#readme"
+}
