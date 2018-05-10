@@ -33,7 +33,7 @@ var compare = require('correct-compare')
 ### `compare(a, b)`
 
 Standard `Array.prototype.sort(cmp)` function signature. If `a > b` return `1`,
-if `b < a` return `-1`, otherwise return `0`
+if `a < b` return `-1`, otherwise return `0`
 
 ## Install
 
