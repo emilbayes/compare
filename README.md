@@ -1,4 +1,4 @@
-# `correct-compare`
+# `compare`
 
 ![100-correct](https://img.shields.io/badge/Correct%20-100%25-brightgreen.svg?style=flat)
 
@@ -18,7 +18,7 @@ a browser of your choice (which most likely has `Intl` support).
 ## Usage
 
 ```js
-var compare = require('correct-compare')
+var compare = require('compare')
 [1, 2, 10].sort() // [1, 10, 2]
 [1, 2, 10].sort(compare) // [1, 2, 10]
 
@@ -35,10 +35,14 @@ var compare = require('correct-compare')
 Standard `Array.prototype.sort(cmp)` function signature. If `a > b` return `1`,
 if `a < b` return `-1`, otherwise return `0`
 
+## Credit
+
+Thanks to [`hughsk`](https://github.com/hughsk) for the npm name!
+
 ## Install
 
 ```sh
-npm install correct-compare
+npm install compare
 ```
 
 ## License
