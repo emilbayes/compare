@@ -1,6 +1,6 @@
 {
   "name": "compare",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Compare primitives the right way (using `<`, `>` and `==`)",
   "main": "index.js",
   "dependencies": {},
